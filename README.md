@@ -53,7 +53,7 @@ You only need to install `uv`. It will handle Python and all libraries for you.
 
 **Mac / Linux:**
 ```bash
-curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ```
 
