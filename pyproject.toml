@@ -1,7 +1,7 @@
 [project]
-name = "imdbmovieboredom"
+name = "imdbayes"
 version = "0.1.0"
-description = "Add your description here"
+description = "IMDbayes is a Data Science project that refuses to trust average ratings."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
