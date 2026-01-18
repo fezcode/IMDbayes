@@ -1,6 +1,7 @@
+## [Read the Related Blogpost](https://fezcode.com/blog/what-genre-should-i-watch)
 
-# IMDbayes ("I'm Da Bayes") : IMDb Genre Gap Analysis & Recommender
-> I love it when you call me Big Data.
+# IMDbayes (_"I'm Da Bayes"_) : IMDb Genre Gap Analysis & Recommender
+> _I love it when you call me Big Data._
 
 ![IMDBayes Banner](./imdbayes.png)
 
