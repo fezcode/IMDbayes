@@ -715,7 +715,7 @@ wheels = [
 ]
 
 [[package]]
-name = "imdbmovieboredom"
+name = "imdbayes"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
